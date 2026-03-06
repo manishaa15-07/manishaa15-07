@@ -1,4 +1,4 @@
-# Hi 👋, I'm Manisha (Manu)
+# Hi 👋, I'm Manisha 
 
 🎓 **3rd Year Computer Science Student @ NIT Surat**
 💻 **Full Stack Developer | React | Next.js | MongoDB**
